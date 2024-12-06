@@ -1,0 +1,64 @@
+Transpose:0
+y [ip] [ip] y [ip] [ip] y [ip] [ip] y [ip] [ip]
+t [ip] [ip] t [ip] [ip] t [ip] [ip] t [ip] [ip]
+r [ip] [ip] r [yip] [ip] r [ip] [ip] r [yip] [ip]
+E [ip] [ip] E [yip] [ip] E [ip] [ip] E [ip] [ip]
+[yd] [ip] [ip] [yj] [ip] [ip] [yg] [ip] [ip] y [ip] [ip]
+[td] [ip] [ip] [tj] [ip] [ip] [tg]-f [ip] [ip] t [ip] [ip]
+[rd] [ip] [ip] [rj] [ip] [ip] [rz] [ip] [ip] [rj] [ip] [ip]
+[Ed] [ip] [ip] [Ej] [ip] [ipj]-h-g-[Ef] [ip] [ip] E [ip] [ip]
+[yd] [ip] [ip] [yj] [ip] [ip] [yg] [ip] [ip] y [ip] [ip]
+[td] [ip] [ip] [tj] [ip] [ip] [tg]-f [ip] [ip] t [ip] [ip]
+[rd] [ip] [ip] [rj] [ip] [ip] [rz] [ip] [ip] [rj] [ip] [ip]
+[Ed] [ip] [ip] [Ej] [ip] [ipj]-h-g-[Ef] [ip] [ip] [Ed] [ip] [ip]
+[yz] [ip]-j-[ip] [yh] [ip]-j-[ip] [yd] [ip] [ip] y [ip] [ip]
+[tx] [ip]-j-[ip] [th] [ip]-j-[ip] [tf] [ip] [ip] t [ip] [ip]
+[Ez] [ip]-j-[ip] [Eh] [ip]-j-[ip] [Ed] [ip] [ip] E [ip] [ip]
+[rd]-f-[ipg]-h-[ipj] [rd] [ip] [ip] [rd]-j-h-[ip] [ip] g f d
+[9d] [eyi] [eyi] [9j] [eyi] [eyi] [9g] [eyi] [eyi] 9 [eyi] [eyi]
+[8d] [etu] [etu] [8j] [etu] [etu] [8g]-f [etu] [etu] 8 [etu] [etu]
+[7d] [wry] [wry] [7j] [wry] [wry] [7z] [wry] [wry] [7j] [wry] [wry]
+[^d] [Ewy] [Ewy] [^j] [Ewy] [Ewyj]-h-g-[^f] [Ewy] [Ewy] [^d] [Ewy] [Ewy]
+[9d] [eyi] [eyi] [9j] [eyi] [eyi] [9g] [eyi] [eyi] 9 [eyi] [eyi]
+[8d] [etu] [etu] [8j] [etu] [etu] [8g]-f [etu] [etu] 8 [etu] [etu]
+[7d] [wry] [wry] [7j] [wry] [wry] [7dz] [wry] [wry] [7j] [wry] [wry]
+[^d] [Ewy] [Ewy] [^j] [Ewy] [Ewyj]-h-g-[^f]
+[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-
+[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-
+[rz]-[ij]-[ph]-[ig]-[ph]-[ij]-[rz]-[ij]-[ph]-[id]-[ph]-[ij]-[rz]-[ij]-[ph]-[ig]-[ph]-[ij]-[rz]-[ij]-[ph]-[id]-[ph]-[ij]-
+[Ez]-[ij]-[ph]-[ig]-[ph]-[ij]-[Ez]-[ij]-[ph]-[id]-[ph]-[ij]-[pd]-[ij]-[pf]-[ij]-[pg]-[ij]-[ph]-[ij]-[pg]-[ij]-[pf]-[ij]-
+[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-[yz]-[ij]-[ph]-[ig]-[ph]-[ij]-
+[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-[tx]-[ij]-[ph]-[ig]-[ph]-[ij]-
+[rz]-[ij]-[ph]-[ig]-[ph]-[ij]-[rz]-[ij]-[ph]-[id]-[ph]-[ij]-[rz]-[ij]-[ph]-[ig]-[ph]-[ij]-[rz]-[ij]-[ph]-[id]-[ph]-[ij]-
+[Ez]-[ij]-[ph]-[ig]-[ph]-[ij]-[Ez]-[ij]-[ph]-[id]-[ph]-[ij]-[pd]-[ij]-[pf]-[ij]-[pg]-[ij]-[ph] g f
+[9d]-e-i-e-i-e-[9j]-e-i-e-i-e-[9g]-e-i-e-i-e-9-e-u-e-y-e-
+[8d]-e-u-e-u-e-[8j]-e-u-e-u-e-[8g]-f-e-u-e-u-e-8-e-y-e-t-e-
+[7d]-w-y-w-y-w-[7j]-w-y-w-y-w-[7z]-w-y-w-y-w-[7j]-w-y-w-y-w-
+[^d]-w-y-w-y-w-[^j]-w-y-w-[yj]-h-w-g-[^f]-w-y-w-y-w-[^d]-w-y-w-y-w-
+[9d]-e-i-e-i-e-[9j]-e-i-e-i-e-[9g]-e-i-e-i-e-9-e-u-e-y-e-
+[8d]-e-u-e-u-e-[8j]-e-u-e-u-e-[8g]-f-e-u-e-u-e-8-e-y-e-t-e-
+[7d]-w-y-w-y-w-[7j]-w-y-w-y-w-[7h]-j-[dz]-w-y-w-y-w-[7j]-w-y-w-y-w-
+[^d]-w-y-w-y-w-[^j]-w-y-w-[yj]-h-w-g-[^f]-w-y-w-y-w-[^d]-w-y-w-y-w-
+[9z]-[ej]-[ih]-[eg]-[ih]-[ej]-[9z]-[ej]-[uh]-[eg]-[yh]-[ej]-[9z]-[ej]-[ih]-[eg]-[ih]-[ej]-[9z]-[ej]-[uh]-[eg]-[yh]-[ej]-
+[8x]-[ej]-[uh]-[eg]-[uh]-[ej]-[8x]-[ej]-[yh]-[eg]-[th]-[ej]-[8x]-[ej]-[uh]-[eg]-[uh]-[ej]-[8x]-[ej]-[yh]-[eg]-[th]-[ej]-
+[7z]-[wj]-[rh]-[wd]-[rh]-[wj]-[7z]-[wj]-[yh]-[wd]-[yh]-[wj]-[7z]-[wj]-[rh]-[wg]-[rh]-[wj]-[7z]-[wj]-[yh]-[wd]-[yh]-[wj]-
+[^z]-[wj]-[yh]-[wd]-[yh]-[wj]-[^z]-[wj]-[yh]-[wg]-[yh]-[wj]-[^z]-[wj]-[yh]-[wd]-[yh]-[wj]-[yz]-j-[uh]-d-[ih]-j-
+[9z]-[ej]-[ih]-[eg]-[ih]-[ej]-[9z]-[ej]-[uh]-[eg]-[yh]-[ej]-[9z]-[ej]-[ih]-[eg]-[ih]-[ej]-[9z]-[ej]-[uh]-[eg]-[yh]-[ej]-
+[8x]-[ej]-[uh]-[eg]-[uh]-[ej]-[8x]-[ej]-[yh]-[eg]-[th]-[ej]-[8x]-[ej]-[uh]-[eg]-[uh]-[ej]-[8x]-[ej]-[yh]-[eg]-[th]-[ej]-
+[7z]-[wj]-[rh]-[wg]-[rh]-[wj]-[7z]-[wj]-[yh]-[wd]-[yh]-[wj]-[7z]-[wj]-[rh]-[wg]-[rh]-[wj]-[7z]-[wj]-[yh]-[wd]-[yh]-[wj]-
+[^z]-[wj]-[yh]-[wg]-[yh]-[wj]-[^z]-[wj]-[yh]-[wd]-[yh]-[wj]-[^d]-[wj]-[yf]-[wj]-[yg]-[wj]-[yh]-[wj]-[yg]-[wj]-[yf]-[wj]-
+d....
+[yd] [ip] [ip] [yj] [ip] [ip] [yg] [ip] [ip] y [ip] [ip]
+[td] [ip] [ip] [tj] [ip] [ip] [tg]-f [ip] [ip] t [ip] [ip]
+[rd] [ip] [ip] [rj] [ip] [ip] [rz] [ip] [ip] [rj] [ip] [ip]
+[Ed] [ip] [ip] [Ej] [ip] [ipj]-h-g-[Ef] [ip] [ip] E [ip] [ip]
+[yd] [ip] [ip] [yj] [ip] [ip] [yg] [ip] [ip] y [ip] [ip]
+[td] [ip] [ip] [tj] [ip] [ip] [tg]-f [ip] [ip] t [ip] [ip]
+[rd] [ip] [ip] [rj] [ip] [ip] [rdz] [ip] [ip] [rj] [ip] [ip]
+[Ed] [ip] [ip]
+[Ej] [ip] [ipj]-h-g-
+[Ef] [ip] [ip]
+[Ed] [ip]
+[ip]
+[yp]-
+d-
